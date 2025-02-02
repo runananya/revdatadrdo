@@ -1,11 +1,10 @@
 
 
-```markdown
+
 # **Reversible Data Hiding (RDH) using Difference Image Histogram Modification**  
 
 🔍 **A Python-based implementation of Reversible Data Hiding (RDH) that enables lossless embedding and extraction of hidden data in grayscale images while ensuring perfect image recovery.**  
 
-![Steganography](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Steganography_2.png/800px-Steganography_2.png)  
 
 ## **📌 Features**  
 ✅ Implements **Difference Image Histogram Modification** for **high-capacity** and **lossless** data embedding.  
